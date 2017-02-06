@@ -9,11 +9,9 @@ Things you may want to cover:
 
 * System dependencies
 
-<<<<<<< HEAD
-* Configurationzxczxczxczxczxczxcvvvvv
-=======
-* Configuration-CHUONG
->>>>>>> 120f92239d1acfcf8326ee8a8a03e03f14434191
+* Configuration
+a = 1
+b = 2
 
 * Database creation
 
